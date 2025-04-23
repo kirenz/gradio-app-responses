@@ -17,7 +17,7 @@ demo = gr.Interface(
     fn=get_response,
     inputs="text",
     outputs="text",
-    title="Simple Chatbot",
+    title="This is my Chatbot",
     description="Enter your message and get a response from the Chatbot"
 )
 
